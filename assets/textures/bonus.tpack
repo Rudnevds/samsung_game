@@ -1,0 +1,26 @@
+
+bonus.png
+format: RGBA8888
+filter: MipMapLinearNearest,Linear
+repeat: none
+electro_line
+  rotate: false
+  xy: 0, 0
+  size: 1962, 82
+  orig: 1962, 82
+  offset: 0, 0
+  index: -1
+medkit
+  rotate: false
+  xy: 0, 82
+  size: 1080, 1080
+  orig: 1080, 1080
+  offset: 0, 0
+  index: -1
+shield
+  rotate: false
+  xy: 1080, 82
+  size: 453, 578
+  orig: 453, 578
+  offset: 0, 0
+  index: -1
